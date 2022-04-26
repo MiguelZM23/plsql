@@ -4,7 +4,7 @@
 
 DECLARE
   l_location agent_sales.agent_loc%TYPE := 'NY' ;
-  l_total_sales        NUMBER;
+  l_total_sales        NUMBER ;
   l_previous_year_comm NUMBER ;
   l_new_commission     NUMBER:= 0;
   l_ratio              NUMBER;
