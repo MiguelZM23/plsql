@@ -1,0 +1,1 @@
+exec update_dept(10);
